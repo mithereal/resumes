@@ -1,12 +1,12 @@
-<details>
-<summary><b>📂 Download Project Files</b></summary>
+<div align="right">
+ <details>
+<summary><b>📂 Download Resume(s)</b></summary>
 
 Select a file below to download it directly:
 
 * [📥 IT_PM_Transition_Resume.docx](https://raw.githubusercontent.com/mithereal/resumes/main/IT_PM_Transition_Resume.docx)
 * [📥 Backend_Engineer_Resume.docx](https://raw.githubusercontent.com/mithereal/resumes/main/Jason_Clark_Backend_Engineer_Resume.docx)
-
-
+  </div>
 
 </details>
 <div align="center">
