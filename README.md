@@ -4,6 +4,8 @@
 
 Select a file below to download it directly:
 
+ [📥 Current Resume (what you see here)](https://raw.githubusercontent.com/mithereal/resumes/main/Jason_Clark_Resume.pdf)
+<br>
  [📥 IT_PM_Transition_Resume.docx](https://raw.githubusercontent.com/mithereal/resumes/main/IT_PM_Transition_Resume.docx)
 <br>
  [📥 Backend_Engineer_Resume.docx](https://raw.githubusercontent.com/mithereal/resumes/main/Jason_Clark_Backend_Engineer_Resume.docx)
