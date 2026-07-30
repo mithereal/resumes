@@ -1,3 +1,14 @@
+<details>
+<summary><b>📂 Download Project Files</b></summary>
+
+Select a file below to download it directly:
+
+* [📥 IT_PM_Transition_Resume.docx](https://raw.githubusercontent.com/mithereal/resumes/main/IT_PM_Transition_Resume.docx)
+* [📥 Backend_Engineer_Resume.docx](https://raw.githubusercontent.com/mithereal/resumes/main/Jason_Clark_Backend_Engineer_Resume.docx)
+
+
+
+</details>
 <div align="center">
 
 # JASON CLARK
@@ -9,6 +20,7 @@
 ---
 
 </div>
+
 
 # OBJECTIVE
 
